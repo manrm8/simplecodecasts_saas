@@ -125,10 +125,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass (= 3.3.1)
   coffee-rails (= 4.0.1)
-<<<<<<< HEAD
-=======
   font-awesome-sass (= 4.2.0)
->>>>>>> development
   jbuilder (= 2.0)
   jquery-rails
   pg
